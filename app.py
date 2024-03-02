@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import os
 
-os.environ['OPENAI_API_KEY'] = "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"
+##os.environ['OPENAI_API_KEY'] = "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"
 import pandas as pd
 from langchain_openai import OpenAI
 from langchain.agents.agent_types import AgentType
